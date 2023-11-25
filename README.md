@@ -40,3 +40,10 @@
 3. **Network Layer:** Concerned with client communication.
 4. **Data Layer:** Not explicitly defined.
 5. **Physical Layer:** Handles physical data transmission.
+
+## STATUS CODES
+1. **1** -> informational
+2. **2** -> success
+3. **3** -> refirecting
+4. **4** -> client side error
+5. **5** -> internal server error
