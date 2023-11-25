@@ -42,8 +42,8 @@
 5. **Physical Layer:** Handles physical data transmission.
 
 ## STATUS CODES
-1. **1** -> informational
-2. **2** -> success
-3. **3** -> refirecting
-4. **4** -> client side error
-5. **5** -> internal server error
+1. ** 1** -> informational
+2. ** 2** -> success
+3. ** 3** -> refirecting
+4. ** 4** -> client side error
+5. ** 5** -> internal server error
